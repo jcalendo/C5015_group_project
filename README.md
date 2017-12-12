@@ -2,8 +2,11 @@
 A genomic pipeline for building and testing phylogenetic trees.
 
 Gennaro Calendo
+
 Kelly Clark
+
 Brian Ennis
+
 Jordan Zehr
 
 ## Please see the 'project.ipynb' file for an overview of our project
